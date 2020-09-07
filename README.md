@@ -118,4 +118,4 @@ Then change the bucket policy [in your S3 bucket](https://s3.console.aws.amazon.
         }
     ]
 }
-```
+```# amplify-s3-view
